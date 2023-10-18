@@ -1,0 +1,430 @@
+2023-07-20 15:16:14,692 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\ESR\2023\07\20\0005\2023-07-20_0005_ESR_0.h5
+2023-07-20 15:16:14,695 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\ESR\2023\07\20\0005\2023-07-20_0005_ESR_0.h5
+2023-07-20 16:56:15,447 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\ESR_Demo\2023\07\20\0014\2023-07-20_0014_ESR_Demo_0.h5
+2023-07-20 16:56:15,460 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\ESR_Demo\2023\07\20\0014\2023-07-20_0014_ESR_Demo_0.h5
+2023-07-20 16:57:44,351 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\ESR_Demo\2023\07\20\0015\2023-07-20_0015_ESR_Demo_0.h5
+2023-07-20 16:57:44,365 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\ESR_Demo\2023\07\20\0015\2023-07-20_0015_ESR_Demo_0.h5
+2023-07-21 17:01:11,756 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\21\0009\2023-07-21_0009_Rabi_00.h5
+2023-07-21 17:01:11,759 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\21\0009\2023-07-21_0009_Rabi_00.h5
+2023-07-21 17:05:29,558 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\21\0010\2023-07-21_0010_Rabi_00.h5
+2023-07-21 17:05:29,570 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\21\0010\2023-07-21_0010_Rabi_00.h5
+2023-07-28 16:09:52,599 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_00.h5
+2023-07-28 16:09:52,604 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_00.h5
+2023-07-28 16:09:52,665 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_01.h5
+2023-07-28 16:09:52,665 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_01.h5
+2023-07-28 16:09:52,720 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_02.h5
+2023-07-28 16:09:52,721 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_02.h5
+2023-07-28 16:09:52,769 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_03.h5
+2023-07-28 16:09:52,769 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_03.h5
+2023-07-28 16:09:52,824 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_04.h5
+2023-07-28 16:09:52,825 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_04.h5
+2023-07-28 16:09:52,879 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_05.h5
+2023-07-28 16:09:52,879 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_05.h5
+2023-07-28 16:09:52,938 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_06.h5
+2023-07-28 16:09:52,939 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_06.h5
+2023-07-28 16:09:52,995 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_07.h5
+2023-07-28 16:09:52,995 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_07.h5
+2023-07-28 16:09:53,052 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_08.h5
+2023-07-28 16:09:53,052 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_08.h5
+2023-07-28 16:09:53,101 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_09.h5
+2023-07-28 16:09:53,101 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_09.h5
+2023-07-28 16:09:53,155 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_10.h5
+2023-07-28 16:09:53,155 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_10.h5
+2023-07-28 16:09:53,202 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_11.h5
+2023-07-28 16:09:53,203 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_11.h5
+2023-07-28 16:09:53,260 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_12.h5
+2023-07-28 16:09:53,260 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_12.h5
+2023-07-28 16:09:53,322 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_13.h5
+2023-07-28 16:09:53,323 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_13.h5
+2023-07-28 16:09:53,380 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_14.h5
+2023-07-28 16:09:53,380 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_14.h5
+2023-07-28 16:09:53,427 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_15.h5
+2023-07-28 16:09:53,427 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_15.h5
+2023-07-28 16:09:53,484 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_16.h5
+2023-07-28 16:09:53,485 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_16.h5
+2023-07-28 16:09:53,533 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_17.h5
+2023-07-28 16:09:53,534 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_17.h5
+2023-07-28 16:09:53,595 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_18.h5
+2023-07-28 16:09:53,596 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_18.h5
+2023-07-28 16:09:53,653 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_19.h5
+2023-07-28 16:09:53,653 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_19.h5
+2023-07-28 16:09:53,700 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_20.h5
+2023-07-28 16:09:53,700 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_20.h5
+2023-07-28 16:09:53,752 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_21.h5
+2023-07-28 16:09:53,753 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_21.h5
+2023-07-28 16:09:53,811 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_22.h5
+2023-07-28 16:09:53,811 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_22.h5
+2023-07-28 16:09:53,869 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_23.h5
+2023-07-28 16:09:53,869 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_23.h5
+2023-07-28 16:09:53,921 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_24.h5
+2023-07-28 16:09:53,922 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0008\2023-07-28_0008_Rabi_24.h5
+2023-07-28 16:36:06,592 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_00.h5
+2023-07-28 16:36:06,596 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_00.h5
+2023-07-28 16:36:06,662 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_01.h5
+2023-07-28 16:36:06,663 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_01.h5
+2023-07-28 16:36:06,711 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_02.h5
+2023-07-28 16:36:06,712 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_02.h5
+2023-07-28 16:36:06,773 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_03.h5
+2023-07-28 16:36:06,774 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_03.h5
+2023-07-28 16:36:06,827 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_04.h5
+2023-07-28 16:36:06,827 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_04.h5
+2023-07-28 16:36:06,880 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_05.h5
+2023-07-28 16:36:06,881 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_05.h5
+2023-07-28 16:36:06,935 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_06.h5
+2023-07-28 16:36:06,935 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_06.h5
+2023-07-28 16:36:06,987 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_07.h5
+2023-07-28 16:36:06,987 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_07.h5
+2023-07-28 16:36:07,039 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_08.h5
+2023-07-28 16:36:07,040 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_08.h5
+2023-07-28 16:36:07,088 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_09.h5
+2023-07-28 16:36:07,089 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_09.h5
+2023-07-28 16:36:07,148 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_10.h5
+2023-07-28 16:36:07,149 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_10.h5
+2023-07-28 16:36:07,204 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_11.h5
+2023-07-28 16:36:07,204 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_11.h5
+2023-07-28 16:36:07,257 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_12.h5
+2023-07-28 16:36:07,258 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_12.h5
+2023-07-28 16:36:07,314 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_13.h5
+2023-07-28 16:36:07,314 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_13.h5
+2023-07-28 16:36:07,365 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_14.h5
+2023-07-28 16:36:07,365 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_14.h5
+2023-07-28 16:36:07,416 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_15.h5
+2023-07-28 16:36:07,416 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_15.h5
+2023-07-28 16:36:07,473 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_16.h5
+2023-07-28 16:36:07,473 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_16.h5
+2023-07-28 16:36:07,527 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_17.h5
+2023-07-28 16:36:07,527 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_17.h5
+2023-07-28 16:36:07,594 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_18.h5
+2023-07-28 16:36:07,595 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_18.h5
+2023-07-28 16:36:07,654 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_19.h5
+2023-07-28 16:36:07,655 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_19.h5
+2023-07-28 16:36:07,708 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_20.h5
+2023-07-28 16:36:07,709 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_20.h5
+2023-07-28 16:36:07,760 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_21.h5
+2023-07-28 16:36:07,761 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_21.h5
+2023-07-28 16:36:07,821 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_22.h5
+2023-07-28 16:36:07,821 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_22.h5
+2023-07-28 16:36:07,914 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_23.h5
+2023-07-28 16:36:07,914 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_23.h5
+2023-07-28 16:36:11,825 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_24.h5
+2023-07-28 16:36:11,831 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\07\28\0009\2023-07-28_0009_Rabi_24.h5
+2023-08-02 10:38:12,326 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Scan_v2\2023\08\02\0001\2023-08-02_0001_Scan_v2_0.h5
+2023-08-02 10:38:12,329 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Scan_v2\2023\08\02\0001\2023-08-02_0001_Scan_v2_0.h5
+2023-08-10 14:51:14,611 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0034\2023-08-10_0034_Rabi_0.h5
+2023-08-10 14:51:14,617 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0034\2023-08-10_0034_Rabi_0.h5
+2023-08-10 14:51:14,689 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0034\2023-08-10_0034_Rabi_1.h5
+2023-08-10 14:51:14,691 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0034\2023-08-10_0034_Rabi_1.h5
+2023-08-10 14:51:14,759 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0034\2023-08-10_0034_Rabi_2.h5
+2023-08-10 14:51:14,759 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0034\2023-08-10_0034_Rabi_2.h5
+2023-08-10 14:53:59,665 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0035\2023-08-10_0035_Rabi_0.h5
+2023-08-10 14:53:59,666 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0035\2023-08-10_0035_Rabi_0.h5
+2023-08-10 14:53:59,729 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0035\2023-08-10_0035_Rabi_1.h5
+2023-08-10 14:53:59,730 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0035\2023-08-10_0035_Rabi_1.h5
+2023-08-10 14:53:59,793 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0035\2023-08-10_0035_Rabi_2.h5
+2023-08-10 14:53:59,794 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0035\2023-08-10_0035_Rabi_2.h5
+2023-08-10 14:54:24,922 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0036\2023-08-10_0036_Rabi_0.h5
+2023-08-10 14:54:24,923 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0036\2023-08-10_0036_Rabi_0.h5
+2023-08-10 14:54:24,987 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0036\2023-08-10_0036_Rabi_1.h5
+2023-08-10 14:54:24,988 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0036\2023-08-10_0036_Rabi_1.h5
+2023-08-10 14:54:25,053 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0036\2023-08-10_0036_Rabi_2.h5
+2023-08-10 14:54:25,054 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0036\2023-08-10_0036_Rabi_2.h5
+2023-08-10 14:55:43,800 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:55:43,806 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:55:43,824 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:55:43,830 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:55:43,894 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:55:43,899 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:55:43,992 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:55:44,037 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:55:44,043 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:55:50,790 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:55:50,917 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:55:53,926 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:55:54,021 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:55:56,834 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:55:56,934 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:56:00,098 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:56:00,192 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:56:14,528 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0037\2023-08-10_0037_Rabi_0.h5
+2023-08-10 14:56:14,533 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0037\2023-08-10_0037_Rabi_0.h5
+2023-08-10 14:56:14,608 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0037\2023-08-10_0037_Rabi_1.h5
+2023-08-10 14:56:14,609 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0037\2023-08-10_0037_Rabi_1.h5
+2023-08-10 14:56:14,674 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0037\2023-08-10_0037_Rabi_2.h5
+2023-08-10 14:56:14,674 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0037\2023-08-10_0037_Rabi_2.h5
+2023-08-10 14:59:05,480 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:59:05,591 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:59:08,460 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:59:08,646 ERROR runviewer: Got an exception:
+Traceback (most recent call last):
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 654, in paint
+    specs = self.generateDrawSpecs(painter)
+  File "C:\Users\Yao Lab\anaconda3\envs\py38\lib\site-packages\pyqtgraph\graphicsItems\AxisItem.py", line 1118, in generateDrawSpecs
+    br = p.boundingRect(QtCore.QRectF(0, 0, 100, 100), QtCore.Qt.AlignmentFlag.AlignCenter, s)
+TypeError: arguments did not match any overloaded call:
+  boundingRect(self, QRectF, int, str): argument 3 has unexpected type 'int'
+  boundingRect(self, QRect, int, str): argument 1 has unexpected type 'QRectF'
+  boundingRect(self, QRectF, str, option: QTextOption = QTextOption()): argument 2 has unexpected type 'AlignmentFlag'
+  boundingRect(self, int, int, int, int, int, str): argument 1 has unexpected type 'QRectF'
+
+2023-08-10 14:59:29,710 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0038\2023-08-10_0038_Rabi_0.h5
+2023-08-10 14:59:29,713 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0038\2023-08-10_0038_Rabi_0.h5
+2023-08-10 14:59:29,761 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0038\2023-08-10_0038_Rabi_1.h5
+2023-08-10 14:59:29,761 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0038\2023-08-10_0038_Rabi_1.h5
+2023-08-10 14:59:29,800 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0038\2023-08-10_0038_Rabi_2.h5
+2023-08-10 14:59:29,800 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0038\2023-08-10_0038_Rabi_2.h5
+2023-08-10 15:02:28,800 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0039\2023-08-10_0039_Rabi_0.h5
+2023-08-10 15:02:28,800 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0039\2023-08-10_0039_Rabi_0.h5
+2023-08-10 15:02:28,864 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0039\2023-08-10_0039_Rabi_1.h5
+2023-08-10 15:02:28,865 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0039\2023-08-10_0039_Rabi_1.h5
+2023-08-10 15:02:28,928 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0039\2023-08-10_0039_Rabi_2.h5
+2023-08-10 15:02:28,928 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0039\2023-08-10_0039_Rabi_2.h5
+2023-08-10 15:04:52,924 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0040\2023-08-10_0040_Rabi_0.h5
+2023-08-10 15:04:52,925 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0040\2023-08-10_0040_Rabi_0.h5
+2023-08-10 15:04:52,988 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0040\2023-08-10_0040_Rabi_1.h5
+2023-08-10 15:04:52,989 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0040\2023-08-10_0040_Rabi_1.h5
+2023-08-10 15:04:53,051 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0040\2023-08-10_0040_Rabi_2.h5
+2023-08-10 15:04:53,052 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0040\2023-08-10_0040_Rabi_2.h5
+2023-08-10 15:05:00,355 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0041\2023-08-10_0041_Rabi_0.h5
+2023-08-10 15:05:00,356 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0041\2023-08-10_0041_Rabi_0.h5
+2023-08-10 15:05:00,420 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0041\2023-08-10_0041_Rabi_1.h5
+2023-08-10 15:05:00,420 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0041\2023-08-10_0041_Rabi_1.h5
+2023-08-10 15:05:00,485 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0041\2023-08-10_0041_Rabi_2.h5
+2023-08-10 15:05:00,486 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0041\2023-08-10_0041_Rabi_2.h5
+2023-08-10 15:08:06,771 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0042\2023-08-10_0042_Rabi_0.h5
+2023-08-10 15:08:06,771 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0042\2023-08-10_0042_Rabi_0.h5
+2023-08-10 15:08:06,862 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0042\2023-08-10_0042_Rabi_1.h5
+2023-08-10 15:08:06,862 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0042\2023-08-10_0042_Rabi_1.h5
+2023-08-10 15:08:06,955 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0042\2023-08-10_0042_Rabi_2.h5
+2023-08-10 15:08:06,956 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0042\2023-08-10_0042_Rabi_2.h5
+2023-08-10 15:09:01,770 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0043\2023-08-10_0043_Rabi_0.h5
+2023-08-10 15:09:01,770 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0043\2023-08-10_0043_Rabi_0.h5
+2023-08-10 15:09:01,857 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0043\2023-08-10_0043_Rabi_1.h5
+2023-08-10 15:09:01,857 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0043\2023-08-10_0043_Rabi_1.h5
+2023-08-10 15:09:01,945 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0043\2023-08-10_0043_Rabi_2.h5
+2023-08-10 15:09:01,946 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0043\2023-08-10_0043_Rabi_2.h5
+2023-08-10 15:10:23,321 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0044\2023-08-10_0044_Rabi_0.h5
+2023-08-10 15:10:23,322 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0044\2023-08-10_0044_Rabi_0.h5
+2023-08-10 15:10:23,412 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0044\2023-08-10_0044_Rabi_1.h5
+2023-08-10 15:10:23,413 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0044\2023-08-10_0044_Rabi_1.h5
+2023-08-10 15:10:23,500 INFO runviewer.server: Received hdf5 file: Z:\Experiments\example_apparatus\Rabi\2023\08\10\0044\2023-08-10_0044_Rabi_2.h5
+2023-08-10 15:10:23,500 INFO runviewer: local filepath: C:\Users\Yao Lab\labscript-suite\Experiments\example_apparatus\Rabi\2023\08\10\0044\2023-08-10_0044_Rabi_2.h5
